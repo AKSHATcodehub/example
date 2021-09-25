@@ -1,5 +1,5 @@
 # example
 
-#code get upload.
+#code get upload!
 
 sucessfully.
